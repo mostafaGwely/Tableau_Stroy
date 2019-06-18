@@ -49,7 +49,11 @@ The final story consists of 5 slides:
 
 - the third and forth dashboard inconsistance with their headers in the story
 
-final tableau story [`before feedback`](https://public.tableau.com/profile/mostafat#!/vizhome/titanic_before_review/Story1) [`after feedback`](https://public.tableau.com/profile/mostafat#!/vizhome/titanic_final_9/Story1)
+# final tableau story 
+
+[`before feedback`](https://public.tableau.com/profile/mostafat#!/vizhome/titanic_before_review/Story1) 
+
+[`after feedback`](https://public.tableau.com/profile/mostafat#!/vizhome/titanic_final_9/Story1)
 
 # sources
 
